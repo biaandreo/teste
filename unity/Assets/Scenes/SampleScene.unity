@@ -170,7 +170,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   alvo: {fileID: 158460395}
-  velocidade: 0
+  velocidade: 20
   "eixoRota\xE7\xE3o": {x: 0, y: 1, z: 0}
 --- !u!65 &158460397
 BoxCollider:
@@ -267,7 +267,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   alvo: {fileID: 158460395}
-  velocidade: 0
+  velocidade: 30
   "eixoRota\xE7\xE3o": {x: 1, y: 0, z: 0}
 --- !u!136 &531077617
 CapsuleCollider:
@@ -554,7 +554,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   alvo: {fileID: 531077620}
-  velocidade: 0
+  velocidade: 50
   "eixoRota\xE7\xE3o": {x: 1, y: 0, z: 0}
 --- !u!135 &1083591008
 SphereCollider:
@@ -666,7 +666,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   alvo: {fileID: 158460395}
-  velocidade: 0
+  velocidade: 10
   "eixoRota\xE7\xE3o": {x: 0, y: 0, z: 1}
 --- !u!114 &1363406584
 MonoBehaviour:
@@ -681,7 +681,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   alvo: {fileID: 1363406588}
-  velocidade: 0
+  velocidade: 70
   "eixoRota\xE7\xE3o": {x: 0, y: 1, z: 0}
 --- !u!136 &1363406585
 CapsuleCollider:
